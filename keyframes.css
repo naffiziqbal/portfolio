@@ -1,0 +1,63 @@
+/* Progress Bar Animation  */
+/* --------------------------------- */
+/* -------------------------------- */
+@keyframes html {
+    from{
+        left: 0px;
+    }
+    to{
+        left: 90%;
+    }
+    
+}
+@keyframes css {
+    from{
+        left: 0px;
+    }
+    to{
+        left: 80%;
+    }
+    
+}
+@keyframes js {
+    from{
+        left: 0px;
+    }
+    to{
+        left: 70%;
+    }
+    
+}
+
+@keyframes bootsrap {
+    from{
+        left: 0px;
+    }
+    to{
+        left: 75%;
+    }
+    
+}
+
+/*Coming Soon animation  */
+/* --------------------------------- */
+/* -------------------------------- */
+
+
+@keyframes rotate {
+    from{
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+}
+to{
+    transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    -moz-transform: rotate(359deg);
+    -ms-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+}
+    
+}
